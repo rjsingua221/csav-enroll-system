@@ -2,5 +2,9 @@
 
 #update the composer
 ...
+
+
 composer self-update
+
+
 ...
